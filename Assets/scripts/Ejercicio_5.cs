@@ -7,7 +7,7 @@ using UnityEngine;
 
 public class Ejercicio_5 : MonoBehaviour
 {
-    public int num1, num2;
+    public float num1, num2;
     // Start is called before the first frame update
     void Start()
     {
